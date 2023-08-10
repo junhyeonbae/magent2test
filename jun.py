@@ -1,3 +1,6 @@
+#지금 테스트 하는 중입니다.
+
+
 my_dict = {'a': 1, 'b': 2, 'c': 3}
 
 print(my_dict.items()) #
